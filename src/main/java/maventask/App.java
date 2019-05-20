@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Welcome to Dockerizing Jenkins Pipeline" );
+        System.out.println( "Welcome to Hello World" );
     }
 }
